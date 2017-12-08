@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=avarage
+comment1.params=y\ x\ z
+comment1.target=float\ sampleMethod(int,\ int,\ int)
+numComments=2
