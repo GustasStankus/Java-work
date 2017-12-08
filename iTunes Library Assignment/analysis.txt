@@ -1,0 +1,86 @@
+Rap : 13
+Trip Hop : 58
+Chillout : 32
+Miscellaneous : 1
+Country &#38; Folk : 52
+Punk : 32
+ResearchChannel : 2
+R&#38;B : 316
+Alternative Rock : 6
+Asian Urban : 143
+Classic Rock : 370
+Folk : 51
+Metal : 12
+World : 65
+Northern Soul : 122
+iTunes U : 16
+Latin House : 24
+Disco and Funk : 52
+Spoken Word : 38
+Electronica/Dance : 61
+Education : 1
+Children's : 1
+Electronica : 249
+World Dance : 34
+Comedy : 1
+Early Electronic : 12
+WORLD : 12
+Indian Classical : 13
+Latin Funk/Disco/Soul : 12
+Dance &#38; House : 88
+Jazz+Funk : 84
+Rock : 650
+Alternative : 1539
+Detroit Techno : 19
+Indie : 41
+Singer/Songwriter : 3
+Kids &#38; Family : 1
+House : 43
+Pop/Rock : 35
+Pop : 636
+R&#38;B/Soul : 1
+Soundtrack : 72
+Soul : 576
+Funk Rock : 15
+Professional : 2
+Disco : 16
+Alt-Folk : 179
+Latin : 57
+Country : 52
+South Africa : 1
+UK Garage : 14
+Electronic/Chill-Out : 284
+Children's Music : 17
+Funk : 94
+Unclassifiable : 14
+Easy Listening : 51
+New Wave : 5
+Voice Memo : 4
+New Jack Swing/Swingbeat : 12
+Drum n' Bass/Jungle : 10
+International : 1
+World Fusion : 34
+Motown : 30
+Hip-Hop : 231
+Ska : 41
+Podcast : 1364
+Indie Rock : 194
+Electronic : 20
+Short Films : 1
+Soundtracks : 1
+Blues : 35
+Jazz : 258
+Alternative Country : 17
+Club : 82
+Alternative &#38; Punk : 12
+Rare Groove : 53
+Dance : 27
+Traditional : 18
+Rock/Pop : 1
+Reggae : 254
+Classical : 45
+Sports &#38; Recreation : 3
+Electro : 12
+Other : 19
+Coventry University : 1
+iTunes Libery : 9170
